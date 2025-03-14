@@ -1,6 +1,6 @@
 # 3dmenu
 
-[demo project](https://mohammadrezaafroozi.github.io/3D-solar-system/)
+[demo project]()
 
 
 - Developed by MohammadReza Afroozi
